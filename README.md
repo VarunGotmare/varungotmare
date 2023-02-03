@@ -17,4 +17,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varungotmare&show_icons=true&theme=dark)](https://github.com/varungotmare/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varungotmare&hide=TeX&layout=compact)
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varungotmare&show_icons=true&theme=dark)](https://github.com/varungotmare/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varungotmare&hide=TeX&layout=compact&theme=dark)
