@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello There!
+## Im @varungotmare
+## Student at [GHRIETN Nagpur](https://ghrietn.raisoni.net/)
 
-<!--
-**VarunGotmare/varungotmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Just an average student who likes to code stuff and is into cyber security and hacking more than development
 
-Here are some ideas to get you started:
+- Currently learning penetration testing and ethical hacking
+- Worked on javascript projects like discord bots
+- I’m looking to collaborate on open source/commercial projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:** 
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+[![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varungotmare&show_icons=true&theme=dark)](https://github.com/varungotmare/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varungotmare&hide=TeX&layout=compact)
