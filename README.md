@@ -1,5 +1,5 @@
-### Hello There!
-## Im @varungotmare
+
+## Hey! Its me @varungotmare
 ## Student at [GHRIETN Nagpur](https://ghrietn.raisoni.net/)
 
 > Just an average student who likes to code stuff and is into penetration testing more than development
