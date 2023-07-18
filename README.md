@@ -7,6 +7,7 @@
 - Currently learning penetration testing and ethical hacking
 - Worked on javascript projects like discord bots
 - I’m looking to collaborate on open source projects
+- Also learning Flutter and Dart basics
 
 **Languages and Tools:** 
 
