@@ -9,13 +9,9 @@
 - I’m looking to collaborate on open source projects
 - Also learning Flutter and Dart basics
 
-**Languages and Tools:** 
+**My Skills:** 
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,dart,flutter,mongodb)](https://skillicons.dev)
 
 [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varungotmare&show_icons=true&theme=dark)](https://github.com/varungotmare/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varungotmare&hide=TeX&layout=compact&theme=dark)
