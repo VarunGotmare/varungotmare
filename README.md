@@ -2,8 +2,7 @@
 ## Hey! Its me @varungotmare
 ## Student at [GHRIETN Nagpur](https://ghrietn.raisoni.net/)
 
-> Just an average student who likes to code stuff and still dont like software development
-
+> Just an average student.
 - Currently learning penetration testing and ethical hacking
 - Worked on javascript projects like discord bots
 - I’m looking to collaborate on open source projects
