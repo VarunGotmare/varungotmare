@@ -1,5 +1,5 @@
 
-## Hey! Its me @varungotmare
+## Hey! Its me @varun.gotmare
 ## Student at [GHRIETN Nagpur](https://ghrietn.raisoni.net/)
 
 > Just an average student.
