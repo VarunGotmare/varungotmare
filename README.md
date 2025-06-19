@@ -16,3 +16,6 @@
 
 [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varungotmare&show_icons=true&theme=dark)](https://github.com/varungotmare/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varungotmare&hide=TeX&layout=compact&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VarunGotmare&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
