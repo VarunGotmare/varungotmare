@@ -1,6 +1,5 @@
 
 ## Hey! Its me @varun.gotmare
-## Student at [GHRIETN Nagpur](https://ghrietn.raisoni.net/)
 
 > Just an average student.
 - Currently learning penetration testing and ethical hacking
